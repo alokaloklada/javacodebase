@@ -1,5 +1,5 @@
 #include<stdio.h>
- 
+ alok Kumar lada
 int main()
 {
     char message[100], ch;
