@@ -4,6 +4,7 @@ int main()
 {
     char message[100], ch;
     int i, key;
+    printf("Welcome ");
     
     printf("Enter a message to encrypt: ");
     gets(message);
